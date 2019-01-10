@@ -1,8 +1,8 @@
 # Go-Machine-Learning-Projects
 Go Machine Learning Projects, published by Packt
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/go-machine-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788993401"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10285.png" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Go-Machine-Learning-Projects](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Go-Machine-Learning-Projects](https://www.packtpub.com/big-data-and-business-intelligence/go-machine-learning-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788993401), published by Packt.
 
 **Perform end-to-end data analysis to gain efficient data insight**
 
